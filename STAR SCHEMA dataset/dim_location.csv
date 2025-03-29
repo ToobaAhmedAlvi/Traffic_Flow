@@ -1,0 +1,101 @@
+location_id,location_name,location_Area
+1,Shahrah-e-Faisal,Jinnah International Airport to PIDC
+2,MA Jinnah Road,Saddar to Kharadar
+3,II Chundrigar Road,Tower to Merewether Tower
+4,University Road,NED University to Hassan Square
+5,Rashid Minhas Road,Gulshan to Gulistan-e-Jauhar
+6,Shahrah-e-Pakistan,Sohrab Goth to Liaquatabad
+7,Korangi Road,Korangi Crossing to Qayyumabad
+8,Shahrah-e-Quaideen,Clifton to NIPA
+9,Shaheed-e-Millat Road,Nursery to KDA Chowrangi
+10,Sunset Boulevard,DHA Phase 2
+11,Khayaban-e-Ittehad,DHA/Clifton to Gadap
+12,Karsaz Road,Shahrah-e-Faisal to Khalid Bin Waleed Road
+13,Tariq Road,Gulshan-e-Iqbal to PECHS
+14,Sharae Pakistan,Liaquatabad to Sohrab Goth
+15,Sir Shah Muhammad Suleman Road,Saddar
+16,MT Khan Road,Kemari to Saddar
+17,Chaudhry Khaliq uz Zaman Road,Garden East
+18,Shaheed-e-Millat Expressway,Malir to Korangi
+19,Shahrah-e-Liaquat,Saddar to Lyari
+20,Shahrah-e-Iran,Clifton to Saddar
+21,Khayaban-e-Shamsheer,DHA Phase 5
+22,Khayaban-e-Shahbaz,DHA Phase 6
+23,Khayaban-e-Bahria,DHA/Clifton
+24,Shahrah-e-Sher Shah Suri,North Karachi to Super Highway
+25,Abul Hasan Ispahani Road,Gulshan-e-Iqbal to Shahrah-e-Faisal
+26,Sharae Quaid-e-Azam,Malir to Landhi
+27,Nishtar Road,Saddar
+28,Burnes Road,Saddar
+29,Kashmir Road,Saddar
+30,Miran Shah Road,Qaidabad
+31,Shahrah-e-Usman,North Nazimabad
+32,Shahrah-e-Noor Jehan,North Nazimabad
+33,Shahrah-e-Shershah,North Karachi
+34,Shahrah-e-Jahangir,Nazimabad
+35,Shahrah-e-Peshawar,New Karachi
+36,Shahrah-e-Turkey,Gulshan-e-Iqbal
+37,Main University Road,Gulshan-e-Iqbal
+38,Main Khayaban-e-Jami,Clifton/DHA
+39,Khayaban-e-Mujahid,DHA Phase 5
+40,Khayaban-e-Saadi,DHA Phase 4
+41,Khayaban-e-Hafiz,DHA Phase 6
+42,Khayaban-e-Roomi,DHA Phase 8
+43,Khayaban-e-Tanzeem,DHA Phase 5
+44,Khayaban-e-Shaheen,DHA Phase 6
+45,Shahrah-e-Ghalib,Gulshan-e-Iqbal
+46,Shahrah-e-Ata Turk,Gulshan-e-Iqbal
+47,Shahrah-e-Alamgir,Gulshan-e-Iqbal
+48,Shahrah-e-Muhammed Ali Jinnah,Gulshan-e-Iqbal
+49,Shahrah-e-Alamgir,Gulshan-e-Iqbal
+50,Shahrah-e-Bahadur Yar Jang,Gulshan-e-Iqbal
+51,Shahrah-e-Sindhi Muslim Society,Gulshan-e-Iqbal
+52,Shahrah-e-Gulistan-e-Johar,Gulistan-e-Jauhar
+53,Shahrah-e-North Nazimabad,North Nazimabad
+54,Shahrah-e-Farooq-e-Azam,Nazimabad
+55,Shahrah-e-Shah Waliullah,North Nazimabad
+56,Shahrah-e-Muhammed Bin Qasim,Defence
+57,Shahrah-e-Qaddafi,Orangi Town
+58,Shahrah-e-Orangi,Orangi Town
+59,Shahrah-e-Gulshan-e-Maymar,Gulshan-e-Maymar
+60,Shahrah-e-Qaudri,North Karachi
+61,Shahrah-e-Nishtar,Nazimabad
+62,Shahrah-e-Nishter,Nazimabad
+63,Shahrah-e-Gulberg,Gulberg
+64,Shahrah-e-Liaquatabad,Liaquatabad
+65,Shahrah-e-PECHS,PECHS
+66,Shahrah-e-Fatima Jinnah,Saddar
+67,Shahrah-e-Ibn-e-Sina,Gulshan-e-Iqbal
+68,Shahrah-e-Jauhar,Gulistan-e-Jauhar
+69,Shahrah-e-Millenium,Gulistan-e-Jauhar
+70,Shahrah-e-Gulzar-e-Hijri,Gulistan-e-Jauhar
+71,Shahrah-e-Abul Hassan Isphahani,Gulshan-e-Iqbal
+72,Shahrah-e-Hafeez Jalandhari,Gulshan-e-Iqbal
+73,Shahrah-e-Mazare Quaid,Mazar-e-Quaid
+74,Shahrah-e-Qainchi,Akhtar Colony
+75,Shahrah-e-Bandar Road,Keamari
+76,Shahrah-e-Kemari,Kemari
+77,Shahrah-e-Manora,Manora
+78,Shahrah-e-Port Trust,Kemari
+79,Shahrah-e-Sher Shah,New Karachi
+80,Shahrah-e-Bin Qasim,Korangi
+81,Shahrah-e-Landhi,Landhi
+82,Shahrah-e-Malir,Malir
+83,Shahrah-e-Quaid-e-Azam,Malir
+84,Shahrah-e-Gulshan-e-Hadeed,Steel Town
+85,Shahrah-e-Saeedabad,Saeedabad
+86,Shahrah-e-Ittehad,Korangi
+87,Shahrah-e-Nipa,NIPA
+88,Shahrah-e-Hasan Square,Gulshan-e-Iqbal
+89,Shahrah-e-Gulshan Chowrangi,Gulshan-e-Iqbal
+90,Shahrah-e-North Karachi,North Karachi
+91,Shahrah-e-Super Highway,Sohrab Goth
+92,Shahrah-e-National Highway,City Entrance
+93,Shahrah-e-Rashid Minhas,Gulshan
+94,Shahrah-e-Kala Board,Korangi
+95,Shahrah-e-Shah Faisal,Shah Faisal Colony
+96,Shahrah-e-Kaneez Fatima,Scheme 33
+97,Shahrah-e-Moinabad,Moinabad
+98,Shahrah-e-Model Colony,Model Colony
+99,Shahrah-e-Bahadurabad,Bahadurabad
+100,Shahrah-e-Akhtar Colony,Akhtar Colony
